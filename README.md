@@ -4,7 +4,8 @@ Este proyecto analiza el rendimiento de ventas de una boutique de ropa de lujo m
 
 ---
 
-## Proyecto simulación de un retail con Dashboard interactivo.
+## Proyecto simulación de un retail con Dashboard interactivo
+Este conjunto de datos es una simulación que representa ventas minoristas.
 
 ---
 
@@ -16,12 +17,6 @@ Este proyecto analiza el rendimiento de ventas de una boutique de ropa de lujo m
 - Medir el ticket promedio por marca y categoría.
 - Analizar los retornos por motivo.
 - Comparar la evolución de las ventas anuales.
-
----
-
-## Descripción del conjunto de datos
-
-Este conjunto de datos es una simulación que representa ventas minoristas.
 
 ---
 
