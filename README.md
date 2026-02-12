@@ -4,18 +4,18 @@ Este proyecto analiza el rendimiento de ventas de una boutique de ropa de lujo m
 
 ---
 
-## Pyoyecto de simulación de un retail con Dashboard interactivo.
+## Proyecto simulación de un retail con Dashboard interactivo.
 
 ---
 
 ## Objetivo del proyecto
 
--Analizar los ingresos totales y la distribución de ventas por marca.
--Evaluar el impacto de los descuentos en los ingresos generales.
--Identificar las categorías con mejor desempeño por temporada.
--Medir el ticket promedio por marca y categoría.
--Analizar los retornos por motivo.
--Comparar la evolución de las ventas anuales.
+- Analizar los ingresos totales y la distribución de ventas por marca.
+- Evaluar el impacto de los descuentos en los ingresos generales.
+- Identificar las categorías con mejor desempeño por temporada.
+- Medir el ticket promedio por marca y categoría.
+- Analizar los retornos por motivo.
+- Comparar la evolución de las ventas anuales.
 
 ---
 
