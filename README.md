@@ -25,7 +25,7 @@ Este conjunto de datos es una simulación que representa ventas minoristas.
 - `producto_id`
 - `categoria`
 - `marca`
-- `temporada`
+- `temporada` (Verano, Invierno, etc)
 - `talla`
 - `color`
 - `precio_original`
