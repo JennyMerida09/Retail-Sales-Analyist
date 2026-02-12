@@ -52,6 +52,15 @@ Este conjunto de datos es una simulación que representa ventas minoristas.
 
 ---
 
+## Herramientas utilizadas
+
+- Power BI (visualización de datos)
+- SQLite (consultas exploratorias)
+- Power Query (transformación de datos)
+- Kaggle (dataset)
+
+---
+
 ## Principales insights
 
 - Los descuentos representan aproximadamente el 40% de las ventas por cada marca.
@@ -67,11 +76,4 @@ Esta captura muestra una segmentación de datos por marcas, en este caso esta se
 ![Dashboard](image/Zara.png)
 
 
----
 
-## Herramientas utilizadas
-
-- Power BI (visualización de datos)
-- SQLite (consultas exploratorias)
-- Power Query (transformación de datos)
-- Kaggle (dataset)
