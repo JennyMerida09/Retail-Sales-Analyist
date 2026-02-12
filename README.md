@@ -54,7 +54,7 @@ Este conjunto de datos es una simulación que representa ventas minoristas.
 
 ## Principales insights
 
-- Los descuentos representan aproximadamente el 40% de las ventas totales.
+- Los descuentos representan aproximadamente el 40% de las ventas por cada marca.
 - Durante la temporada de verano, la categoria de invierno mostró mayores ventas.
 - El ticket promedio por marca se matuvo estable en comparación con el ticket promedio total.
 - Las devoluciones muestran motivos variados, pero se destaca el problema de tamaño y la calidad. 
