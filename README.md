@@ -59,6 +59,14 @@ Este conjunto de datos es una simulación que representa ventas minoristas.
 - El ticket promedio por marca se matuvo estable en comparación con el ticket promedio total.
 - Las devoluciones muestran motivos variados, pero se destaca el problema de tamaño y la calidad. 
 
+---
+
+## Dashboard de refencia
+Esta captura muestra una segmentación de datos por marcas, en este caso esta seleccionada la marca Zara.
+![Dashboard General](image/Zara.png)
+
+---
+
 ## Herramientas utilizadas
 
 - Power BI (visualización de datos)
