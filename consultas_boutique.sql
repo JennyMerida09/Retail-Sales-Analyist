@@ -66,8 +66,8 @@ SELECT marca, categoria, cantidad
 from (SELECT marca, categoria, count(*) AS cantidad,
              row_number() OVER (
    	         PARTITION BY marca
-	      		 order by count(*) DESC
-			       ) AS cp
+	      	 order by count(*) DESC
+			 ) AS cp
 	   from boutique
 	   group by marca
 	   )
@@ -87,9 +87,9 @@ order by porcentaje DESC;
 SELECT marca, temporada
 from (SELECT marca, temporada, count(*) AS cantidad,
              row_number() OVER (
-			       PARTITION BY marca
-			       order by count(*) DESC
-			       ) AS cp
+			 PARTITION BY marca
+			 order by count(*) DESC
+			 ) AS cp
 	    from boutique
 	    group by marca
 	    )
@@ -110,5 +110,6 @@ SELECT strftime('%Y-%m', fecha_compra) AS mes,
 from boutique
 group by mes
 order by mes;
+
 
 
