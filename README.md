@@ -64,7 +64,7 @@ Este conjunto de datos es una simulación que representa ventas minoristas.
 ## Dashboard de refencia
 Esta captura muestra una segmentación de datos por marcas, en este caso esta seleccionada la marca Zara.
 
-![Dashboard](image/Zara.png)
+
 
 
 ---
