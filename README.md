@@ -73,6 +73,20 @@ Este conjunto de datos es una simulación que representa ventas minoristas.
 ## Dashboard interactivo
 A continuación se muestran capturas con las distintas marcas, para que se pueda ver el comportamiento del ticket promedio y el valor porcentual de las mismas sobre el total. Se utilizo un segmentador para selecconar cada marca, si lo desea, puede consultar el dashboard mediante el archivo `.pbix` subido al repositorio.
 
+![Dashboard](image/Ann_Taylor.png)
+
+![Dashboard](image/Banana_Republic.png)
+
+![Dashboard](image/Forever21.png)
+
+![Dashboard](image/Gap.png)
+
+![Dashboard](image/H&M.png)
+
+![Dashboard](image/Mango.png)
+
+![Dashboard](image/Uniqlo.png)
+
 ![Dashboard](image/Zara.png)
 
 
