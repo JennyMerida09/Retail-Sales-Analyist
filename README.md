@@ -71,7 +71,7 @@ Este conjunto de datos es una simulación que representa ventas minoristas.
 ---
 
 ## Dashboard interactivo
-Esta captura muestra una segmentación de datos por marcas, en este caso esta seleccionada la marca Zara.
+A continuación se muestran capturas con las distintas marcas, para que se pueda ver el comportamiento del ticket promedio y el valor porcentual de las mismas sobre el total. Se utilizo un segmentador para selecconar cada marca, si lo desea, puede consultar el dashboard mediante el archivo `.pbix` subido al repositorio.
 
 ![Dashboard](image/Zara.png)
 
