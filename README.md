@@ -63,9 +63,9 @@ Este conjunto de datos es una simulación que representa ventas minoristas.
 
 ## Principales insights
 
-- Los descuentos representan aproximadamente el 40% de las ventas por cada marca.
+- Los descuentos representan aproximadamente el 40% de las ventas en algunas marcas.
 - Durante la temporada de verano, la categoria de invierno mostró mayores ventas.
-- El ticket promedio por marca se matuvo estable en comparación con el ticket promedio total.
+- El ticket promedio de algunas marcas se matuvo estable en comparación con el ticket promedio total.
 - Las devoluciones muestran motivos variados, pero se destaca el problema de tamaño y la calidad. 
 
 ---
@@ -88,6 +88,14 @@ A continuación se muestran capturas con las distintas marcas, para que se pueda
 ![Dashboard](image/Uniqlo.png)
 
 ![Dashboard](image/Zara.png)
+
+## Datos relevantes
+
+- Las ventas de las marcas Ann Taylor y Uniqlo dependieron aproximadamente el 36% de los descuentos, en las demás superaba el 39%. Sin embargo Ann Taylor no ubtuvo mucho valor porcentual.
+- Gap fue la marca que menos valor porcentual obtuvo sobre el total, además de que su ticket promedio no se mantuvo estable al ticket promedio del total.
+- A pesar de que Uniqlo no generó lo mismo o más que los ingresos de Zara, Mango y Banana Republic, fue la marca con el ticket promedio más alto.
+- Durante el año 2024 la mayoria de las ventas se mantuvieron entre septiempre y octubre, con algunos picos altos en noviembre. En 2025, agosto fue el con más ventas, con una observación; la categoría ropa de abrigo fue la que más ingresos generó entre las temporadas de primavera y verano.
+
 
 
 
