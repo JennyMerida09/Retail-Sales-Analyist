@@ -94,7 +94,7 @@ A continuación se muestran capturas con las distintas marcas, para que se pueda
 - Las ventas de las marcas Ann Taylor y Uniqlo dependieron aproximadamente el 36% de los descuentos, en las demás superaba el 39%. Sin embargo Ann Taylor no logró una participación significativa dentro del total facturado.
 - Gap fue la marca que menos valor porcentual obtuvo sobre el total. Además su ticket promedio no se mantuvo estable al ticket promedio del total.
 - Aunque Unqlo no alcanzó los niveles de facturación de Zara, Mango y Banana Republic, fue la marca con el ticket promedio más alto.
-- Durante el año 2024 las ventas se concentraron entre septiempre y octubre, con algunos picos altos en noviembre. En 2025, agosto fue el mes con mayor facturación. Una observación destacable es la categoría ropa de abrigo fue la que más ingresos generó entre las temporadas de primavera y verano, lo que indicaria una estrategia de liquidación por el fin de temporada.
+- Durante el año 2024 las ventas se concentraron entre septiempre y octubre, con algunos picos altos en noviembre. En 2025, agosto fue el mes con mayor facturación. Una observación destacable es con la categoría ropa de abrigo, fue la que más ingresos generó entre las temporadas de primavera y verano, lo que indicaria una estrategia de liquidación por el fin de temporada.
 
 
 
